@@ -64,7 +64,7 @@
                 "z"
             ],
             "resources": [
-                "RangersAPM/Assets/Core/**/*"
+                "RangersAPM/Assets/Core/**/*.bundle"
             ]
         },
         {
@@ -93,7 +93,7 @@
                 "RangersAPM/HMD": []
             },
             "resources": [
-                "RangersAPM/Assets/Crash/**/*"
+                "RangersAPM/Assets/Crash/**/*.bundle"
             ]
         },
         {
@@ -155,7 +155,7 @@
                 "RangersAPM/HMD": []
             },
             "resources": [
-                "RangersAPM/Assets/Hybrid/**/*"
+                "RangersAPM/Assets/Hybrid/**/*.bundle"
             ]
         },
         {
